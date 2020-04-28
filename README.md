@@ -2,9 +2,7 @@
 
 A React Hooks rebuild of the previous slider, which utilized class based components & redux.
 
-## Demo
-
-[React Hooks Image Slider](https://react-hooks-image-slider.herokuapp.com/)
+![image](./screens/slider.png)
 
 ## To Do
 
